@@ -49,6 +49,7 @@ _Tools for building scientific projects._
 - [mocpy](https://github.com/cds-astro/mocpy) - Python library to easily create and manipulate MOCs (Multi-Order Coverage maps).
 - [arro3](https://github.com/kylebarron/arro3) - A minimal Python library for Apache Arrow, connecting to the Rust arrow crate.
 - [parquet2](https://github.com/jorgecarleitao/parquet2) - Fastest and safest Rust implementation of parquet. `unsafe` free. Integration-tested against pyarrow.
+- [rustworkx](https://github.com/Qiskit/rustworkx) - A high performance Python graph library implemented in Rust.
 
 **[⬆ back to top](#contents)**
 
@@ -77,6 +78,7 @@ _Tools for securing your projects._
 
 _Tools to help you in your projects._
 - [orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy.
+- [pixi](https://github.com/prefix-dev/pixi) - Package management made easy.
 - [tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production.
 - [jsonschema](https://github.com/Stranger6667/jsonschema) - A high-performance JSON Schema validator for Rust.
@@ -88,6 +90,9 @@ _Tools to help you in your projects._
 - [hyperjson](https://github.com/mre/hyperjson) - 🐍 A hyper-fast Python module for reading/writing JSON data using Rust's serde-json.
 - [pyo3-log](https://github.com/vorner/pyo3-log) - Logging bridge from pyo3 native extension to python.
 - [python-zstandard](https://github.com/indygreg/python-zstandard) - Python bindings to the Zstandard (zstd) compression library.
+- [molpipx](https://github.com/ChemAI-Lab/molpipx/) - Differentiable version of Permutationally Invariant Polynomial (PIP) models in JAX and Rust. 
+- [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool.
+- [pylyzer](https://github.com/mtshiba/pylyzer) - A fast, feature-rich static code analyzer & language server for Python.
 
 **[⬆ back to top](#contents)**
 
@@ -114,6 +119,7 @@ _Tools to help you building emerging projects._
 _Tools for building database projects._
 
 - [psqlpy](https://github.com/psqlpy-python/psqlpy) - Asynchronous Python PostgreSQL driver written in Rust.
+- [Raphtory](https://github.com/Pometry/Raphtory) - Scalable graph analytics database powered by a multithreaded, vectorized temporal engine, written in Rust.
 
 **[⬆ back to top](#contents)**
 
