@@ -9,9 +9,9 @@ A collection of Python packages built on top of Rust.
 - Table of Content
     - [Core Tools & Infrastructure](#core-tools--infrastructure)
     - [Data & Scientific Computing](#data-scientific-computing)
+    - [Utilities & Formatters](utilities-formatters)
     - [Web & Networking](#web-networking)
     - [Cryptography & Security](#cryptography-security)
-    - [Utilities & Formatters](utilities-formatters)
     - [Embedding & Interop](embedding-interop)
     - [Emerging Projects](emerging-projects)
     - [Database](#database)
@@ -53,27 +53,6 @@ _Tools for building scientific projects._
 
 **[⬆ back to top](#contents)**
 
-## Web & Networking
-
-_Tools for building networking projects._
-- [robyn](https://github.com/facebookexperimental/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
-- [granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications.
-- [primp](https://github.com/deedy5/primp) - 🪞PRIMP (Python Requests IMPersonate). The fastest python HTTP client that can impersonate web browsers.
-- [utiles](https://github.com/jessekrubin/utiles) - utiles = utils & (web-map-)tiles w/ (rs & pyo3).
-- [css-inline](https://github.com/Stranger6667/css-inline) - Python library to easily create and manipulate MOCs (Multi-Order Coverage maps).
-
-**[⬆ back to top](#contents)**
-
-## Cryptography & Security
-
-_Tools for securing your projects._
-- [cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
-- [johnnycanencrypt](https://github.com/kushaldas/johnnycanencrypt) - Python module for OpenPGP written in Rust.
-- [fastbloom](https://github.com/yankun1992/fastbloom) - A fast bloom filter implemented by Rust for Python! 10x faster than pybloom.
-- [opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
-
-**[⬆ back to top](#contents)**
-
 ## Utilities & Formatters
 
 _Tools to help you in your projects._
@@ -93,6 +72,27 @@ _Tools to help you in your projects._
 - [molpipx](https://github.com/ChemAI-Lab/molpipx/) - Differentiable version of Permutationally Invariant Polynomial (PIP) models in JAX and Rust. 
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool.
 - [pylyzer](https://github.com/mtshiba/pylyzer) - A fast, feature-rich static code analyzer & language server for Python.
+
+**[⬆ back to top](#contents)**
+
+## Web & Networking
+
+_Tools for building networking projects._
+- [robyn](https://github.com/facebookexperimental/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
+- [granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications.
+- [primp](https://github.com/deedy5/primp) - 🪞PRIMP (Python Requests IMPersonate). The fastest python HTTP client that can impersonate web browsers.
+- [utiles](https://github.com/jessekrubin/utiles) - utiles = utils & (web-map-)tiles w/ (rs & pyo3).
+- [css-inline](https://github.com/Stranger6667/css-inline) - Python library to easily create and manipulate MOCs (Multi-Order Coverage maps).
+
+**[⬆ back to top](#contents)**
+
+## Cryptography & Security
+
+_Tools for securing your projects._
+- [cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
+- [johnnycanencrypt](https://github.com/kushaldas/johnnycanencrypt) - Python module for OpenPGP written in Rust.
+- [fastbloom](https://github.com/yankun1992/fastbloom) - A fast bloom filter implemented by Rust for Python! 10x faster than pybloom.
+- [opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
 
 **[⬆ back to top](#contents)**
 
