@@ -24,12 +24,12 @@ _Tools for help building projects._
 - [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages.
 - [PyO3](https://github.com/PyO3/pyo3) - Rust bindings for Python, including tools for creating native Python extension modules. Running and interacting with Python code from a Rust binary is also supported.
-- [RustPython](https://github.com/RustPython/RustPython) -  A Python Interpreter written in Rust 
+- [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust.
 - [Huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
-- [setuptools-rust](https://github.com/PyO3/setuptools-rust) -  Setuptools plugin for Rust support.
+- [setuptools-rust](https://github.com/PyO3/setuptools-rust) - Setuptools plugin for Rust support.
 - [maturin-action](https://github.com/PyO3/maturin-action) - GitHub Action to install and run a custom maturin command with built-in support for cross compilation.
 - [python3-dll-a](https://github.com/PyO3/python3-dll-a) - Standalone python3.dll import library generator.
-- [python-pkginfo-rs](https://github.com/PyO3/python-pkginfo-rs) - Parse Python package metadata from sdist and bdists and etc. 
+- [python-pkginfo-rs](https://github.com/PyO3/python-pkginfo-rs) - Parse Python package metadata from sdist and bdists and etc.
 - [maturin-import-hook](https://github.com/PyO3/maturin-import-hook) - Import hook for maturin.
 - [datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine.
 
@@ -43,7 +43,7 @@ _Tools for building scientific projects._
 - [connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python.
 - [pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust.
 - [rust-numpy](https://github.com/PyO3/rust-numpy) - Rust bindings for the NumPy C-API.
-- [feos](https://github.com/feos-org/feos) - A Framework for Equations of State and Classical Density Functional Theory 
+- [feos](https://github.com/feos-org/feos) - A Framework for Equations of State and Classical Density Functional Theory.
 - [delta-rs](https://github.com/delta-io/delta-rs) - A native Rust library for Delta Lake, with bindings into Python.
 - [forust](https://github.com/jinlow/forust) - A lightweight gradient boosted decision tree package.
 - [mocpy](https://github.com/cds-astro/mocpy) - Python library to easily create and manipulate MOCs (Multi-Order Coverage maps).
@@ -55,7 +55,7 @@ _Tools for building scientific projects._
 ## Web & Networking
 
 _Tools for building networking projects._
-- [robyn](https://github.com/facebookexperimental/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime. 
+- [robyn](https://github.com/facebookexperimental/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications.
 - [primp](https://github.com/deedy5/primp) - 🪞PRIMP (Python Requests IMPersonate). The fastest python HTTP client that can impersonate web browsers.
 - [utiles](https://github.com/jessekrubin/utiles) - utiles = utils & (web-map-)tiles w/ (rs & pyo3).
@@ -68,8 +68,8 @@ _Tools for building networking projects._
 _Tools for securing your projects._
 - [cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 - [johnnycanencrypt](https://github.com/kushaldas/johnnycanencrypt) - Python module for OpenPGP written in Rust.
-- [fastbloom](https://github.com/yankun1992/fastbloom) - A fast bloom filter implemented by Rust for Python! 10x faster than pybloom!
-- [opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. 
+- [fastbloom](https://github.com/yankun1992/fastbloom) - A fast bloom filter implemented by Rust for Python! 10x faster than pybloom.
+- [opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
 
 **[⬆ back to top](#contents)**
 
@@ -84,7 +84,7 @@ _Tools to help you in your projects._
 - [tzfpy](https://github.com/ringsaturn/tzfpy) - Probably the fastest Python package to convert longitude/latitude to timezone name.
 - [pyo3-built](https://github.com/PyO3/pyo3-built) - Expose build variables obtained with built as a PyDict.
 - [pyo3-async-runtimes](https://github.com/PyO3/pyo3-async-runtimes) - PyO3-based bridges between Python and Rust async runtimes.
-- [pytantivy](https://github.com/quickwit-oss/tantivy-py) -  Python bindings for Tantivy.
+- [pytantivy](https://github.com/quickwit-oss/tantivy-py) - Python bindings for Tantivy.
 - [hyperjson](https://github.com/mre/hyperjson) - 🐍 A hyper-fast Python module for reading/writing JSON data using Rust's serde-json.
 - [pyo3-log](https://github.com/vorner/pyo3-log) - Logging bridge from pyo3 native extension to python.
 - [python-zstandard](https://github.com/indygreg/python-zstandard) - Python bindings to the Zstandard (zstd) compression library.
@@ -102,7 +102,7 @@ _Tools to help you building embedding projects._
 ## Emerging Projects
 
 _Tools to help you building emerging projects._
-- [blake3-py](https://github.com/oconnor663/blake3-py) - Python bindings for the BLAKE3 cryptographic hash function 
+- [blake3-py](https://github.com/oconnor663/blake3-py) - Python bindings for the BLAKE3 cryptographic hash function.
 - [bed-reader](https://github.com/fastlmm/bed-reader) - A library for easy, fast, and efficient reading & writing of PLINK Bed files.
 - [cellular_raza](https://github.com/jonaspleyer/cellular_raza) - Cellular agent-based modeling from a clean slate.
 - [rustimport](https://github.com/attack68/rateslib) - A fixed income library for pricing bonds and bond futures, and derivatives such as interest rate swaps (IRS), cross-currency swaps (XCS) and FX swaps. Contains tools for full Curveset construction with market standard optimisers and automatic differentiaton (AD) and risk sensitivity calculations including delta and cross-gamma.
