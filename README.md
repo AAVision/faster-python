@@ -120,6 +120,7 @@ _Tools for building database projects._
 
 - [psqlpy](https://github.com/psqlpy-python/psqlpy) - Asynchronous Python PostgreSQL driver written in Rust.
 - [Raphtory](https://github.com/Pometry/Raphtory) - Scalable graph analytics database powered by a multithreaded, vectorized temporal engine, written in Rust.
+- [Daft](https://github.com/Eventual-Inc/Daft) - Distributed data engine for Python/SQL designed for the cloud, powered by Rust.
 
 **[⬆ back to top](#contents)**
 
@@ -127,6 +128,7 @@ _Tools for building database projects._
 _Tools to learn binding Rust with Python._
 
 - [rust-python-example](https://github.com/rochacbruno/rust-python-example) -  Example of using Rust to Extend Python.
+- [python2rust](https://github.com/bedroombuilds/python2rust) - Code for Youtube series introducing Rust to Python programmers.
 
 **[⬆ back to top](#contents)**
 ---
