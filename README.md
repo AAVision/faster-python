@@ -8,14 +8,13 @@ A collection of Python packages built on top of Rust.
 ## Contents
 - Table of Content
     - [Core Tools & Infrastructure](#core-tools--infrastructure)
-    - [Data & Scientific Computing](#data-scientific-computing)
-    - [Utilities & Formatters](utilities-formatters)
-    - [Web & Networking](#web-networking)
-    - [Cryptography & Security](#cryptography-security)
-    - [Embedding & Interop](embedding-interop)
-    - [Emerging Projects](emerging-projects)
+    - [Data & Scientific Computing](#data--scientific-computing)
+    - [Utilities & Formatters](#utilities--formatters)
+    - [Web & Networking](#web--networking)
+    - [Cryptography & Security](#cryptography--security)
+    - [Embedding & Interop](#embedding--interop)
+    - [Emerging Projects](#emerging-projects)
     - [Database](#database)
-
 
 ## Core Tools & Infrastructure
 
