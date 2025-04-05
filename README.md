@@ -15,6 +15,7 @@ A collection of Python packages built on top of Rust.
     - [Embedding & Interop](#embedding--interop)
     - [Emerging Projects](#emerging-projects)
     - [Database](#database)
+    - [Learning](#learning)
 
 ## Core Tools & Infrastructure
 
@@ -122,6 +123,12 @@ _Tools for building database projects._
 
 **[⬆ back to top](#contents)**
 
+## Learning
+_Tools to learn binding Rust with Python._
+
+- [rust-python-example](https://github.com/rochacbruno/rust-python-example) -  Example of using Rust to Extend Python.
+
+**[⬆ back to top](#contents)**
 ---
 
 ## LICENSE :balance_scale:
