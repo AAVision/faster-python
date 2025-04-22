@@ -72,6 +72,7 @@ _Tools to help you in your projects._
 - [molpipx](https://github.com/ChemAI-Lab/molpipx/) - Differentiable version of Permutationally Invariant Polynomial (PIP) models in JAX and Rust. 
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool.
 - [pylyzer](https://github.com/mtshiba/pylyzer) - A fast, feature-rich static code analyzer & language server for Python.
+- [rusty-logger](https://github.com/demml/rusty-logger) - Fast Python logging library written in Rust, ready for production.
 
 **[⬆ back to top](#contents)**
 
