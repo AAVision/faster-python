@@ -21,6 +21,7 @@ A collection of Python packages built on top of Rust.
 
 _Tools for help building projects._
 - [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+- [ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. 
 - [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages.
 - [PyO3](https://github.com/PyO3/pyo3) - Rust bindings for Python, including tools for creating native Python extension modules. Running and interacting with Python code from a Rust binary is also supported.
