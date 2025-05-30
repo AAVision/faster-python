@@ -74,6 +74,7 @@ _Tools to help you in your projects._
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool.
 - [pylyzer](https://github.com/mtshiba/pylyzer) - A fast, feature-rich static code analyzer & language server for Python.
 - [rusty-logger](https://github.com/demml/rusty-logger) - Fast Python logging library written in Rust, ready for production.
+- [py-spy](https://github.com/benfred/py-spy) -  Sampling profiler for Python programs.
 
 **[⬆ back to top](#contents)**
 
