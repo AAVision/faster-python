@@ -51,6 +51,7 @@ _Tools for building scientific projects._
 - [arro3](https://github.com/kylebarron/arro3) - A minimal Python library for Apache Arrow, connecting to the Rust arrow crate.
 - [parquet2](https://github.com/jorgecarleitao/parquet2) - Fastest and safest Rust implementation of parquet. `unsafe` free. Integration-tested against pyarrow.
 - [rustworkx](https://github.com/Qiskit/rustworkx) - A high performance Python graph library implemented in Rust.
+- [fastexcel](https://github.com/ToucanToco/fastexcel) -  A Python wrapper around calamine.
 
 **[⬆ back to top](#contents)**
 
