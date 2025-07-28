@@ -53,6 +53,7 @@ _Tools for building scientific projects._
 - [rustworkx](https://github.com/Qiskit/rustworkx) - A high performance Python graph library implemented in Rust.
 - [fastexcel](https://github.com/ToucanToco/fastexcel) -  A Python wrapper around calamine.
 - [symrank](https://github.com/analyticsinmotion/symrank) - 🐍📦 High-performance cosine similarity ranking for Retrieval-Augmented Generation (RAG) pipelines.
+- [graalpython](https://github.com/oracle/graalpython) - GraalPy – A high-performance embeddable Python 3 runtime for Java.
 
 **[⬆ back to top](#contents)**
 
