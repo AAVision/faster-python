@@ -52,6 +52,7 @@ _Tools for building scientific projects._
 - [parquet2](https://github.com/jorgecarleitao/parquet2) - Fastest and safest Rust implementation of parquet. `unsafe` free. Integration-tested against pyarrow.
 - [rustworkx](https://github.com/Qiskit/rustworkx) - A high performance Python graph library implemented in Rust.
 - [fastexcel](https://github.com/ToucanToco/fastexcel) -  A Python wrapper around calamine.
+- [symrank](https://github.com/analyticsinmotion/symrank) - 🐍📦 High-performance cosine similarity ranking for Retrieval-Augmented Generation (RAG) pipelines.
 
 **[⬆ back to top](#contents)**
 
