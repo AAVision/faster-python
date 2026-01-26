@@ -33,6 +33,7 @@ _Tools for help building projects._
 - [python-pkginfo-rs](https://github.com/PyO3/python-pkginfo-rs) - Parse Python package metadata from sdist and bdists and etc.
 - [maturin-import-hook](https://github.com/PyO3/maturin-import-hook) - Import hook for maturin.
 - [datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine.
+- [watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust.
 
 **[⬆ back to top](#contents)**
 
