@@ -90,6 +90,7 @@ _Tools for building networking projects._
 - [primp](https://github.com/deedy5/primp) - 🪞PRIMP (Python Requests IMPersonate). The fastest python HTTP client that can impersonate web browsers.
 - [utiles](https://github.com/jessekrubin/utiles) - utiles = utils & (web-map-)tiles w/ (rs & pyo3).
 - [css-inline](https://github.com/Stranger6667/css-inline) - Python library to easily create and manipulate MOCs (Multi-Order Coverage maps).
+- [django-bolt](https://github.com/dj-bolt/django-bolt) - High-Performance Fully Typed API Framework for Django.
 
 **[⬆ back to top](#contents)**
 
