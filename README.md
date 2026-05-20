@@ -55,6 +55,7 @@ _Tools for building scientific projects._
 - [fastexcel](https://github.com/ToucanToco/fastexcel) -  A Python wrapper around calamine.
 - [symrank](https://github.com/analyticsinmotion/symrank) - 🐍📦 High-performance cosine similarity ranking for Retrieval-Augmented Generation (RAG) pipelines.
 - [graalpython](https://github.com/oracle/graalpython) - GraalPy – A high-performance embeddable Python 3 runtime for Java.
+- [zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Java, C#, Kotlin (JVM), Kotlin (Android) and Swift (iOS) applications.
 
 **[⬆ back to top](#contents)**
 
