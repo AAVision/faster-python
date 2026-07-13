@@ -62,6 +62,7 @@ _Tools for building scientific projects._
 ## Utilities & Formatters
 
 _Tools to help you in your projects._
+- [cbor2](https://github.com/agronholm/cbor2) - About Python CBOR (de)serializer with extensive tag support
 - [orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy.
 - [pixi](https://github.com/prefix-dev/pixi) - Package management made easy.
 - [tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
