@@ -56,6 +56,7 @@ _Tools for building scientific projects._
 - [symrank](https://github.com/analyticsinmotion/symrank) - 🐍📦 High-performance cosine similarity ranking for Retrieval-Augmented Generation (RAG) pipelines.
 - [graalpython](https://github.com/oracle/graalpython) - GraalPy – A high-performance embeddable Python 3 runtime for Java.
 - [zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Java, C#, Kotlin (JVM), Kotlin (Android) and Swift (iOS) applications.
+- [pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 
 **[⬆ back to top](#contents)**
 
